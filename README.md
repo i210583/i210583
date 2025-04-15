@@ -1,4 +1,4 @@
-[![MasterHead](https://www.noritechnology.com/front/img/nori/gif/web-development-Banners.gif)](https://rishavchanda.io)
+[![MasterHead](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Maaz</h1>
 <!-- <h3 align="center">Quality Assurance Engineer from Pakistan!!</h3> -->
 
